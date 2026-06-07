@@ -1,0 +1,22 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+body{
+    background:#f5f5f5;
+    display:flex;
+    justify-content:center;
+}
+
+.invitation-container{
+    width:100%;
+    max-width:500px;
+}
+
+.invitation-image{
+    width:100%;
+    height:auto;
+    display:block;
+}
